@@ -9,7 +9,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 📈 Statistiche
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariorossi&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AgostinoCaruso&show_icons=true&theme=dark)
 
 ## 🌍 Connettiti con me
-[LinkedIn](https://www.linkedin.com/in/mariorossi)
+[LinkedIn](https://www.linkedin.com/in/AgostinoCaruso)
