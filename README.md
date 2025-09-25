@@ -8,7 +8,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Jim Carrey che scrive sulla tastiera]([https://github.com/AgostinoCaruso/AgostinoCaruso/coding.gif))
+![Coding]([[https://github.com/AgostinoCaruso/AgostinoCaruso/coding.gif](https://github.com/AgostinoCaruso/AgostinoCaruso/blob/main/coding.gif)))
 
 ## 📈 Statistiche
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AgostinoCaruso&show_icons=true&theme=dark)
