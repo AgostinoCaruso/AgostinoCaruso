@@ -1,16 +1,15 @@
-## Hi there 👋
+# Ciao, sono Agostino 👋
 
-<!--
-**AgostinoCaruso/AgostinoCaruso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Sviluppatore web con focus su **Java Spring** e **React**  
+🚀 Appassionato di problem solving e sviluppo di progetti concreti  
 
-Here are some ideas to get you started:
+## 🔧 Tecnologie e strumenti
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Statistiche
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariorossi&show_icons=true&theme=dark)
+
+## 🌍 Connettiti con me
+[LinkedIn](https://www.linkedin.com/in/mariorossi)
