@@ -8,10 +8,10 @@
 
 | Tecnologie | GIF motivazionale |
 |------------|-----------------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+| Tecnologie | GIF motivazionale |
+|------------|-----------------|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | <img src="https://github.com/AgostinoCaruso/AgostinoCaruso/blob/main/coding.gif?raw=true" height="30"/> |
 
-
- | ![Coding](https://github.com/AgostinoCaruso/AgostinoCaruso/blob/main/coding.gif?raw=true) |
 
 
 ## 📈 Statistiche
